@@ -49,7 +49,6 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
     <tr><td><b>BountyOrDie Docs — Web Pentest Writeups</b></td><td align="left"><a href="https://get-bountyordie.gitbook.io/get-bountyordie-docs/our-write-ups/web-pentest-write-ups">📚 Open GitBook ↗</a></td></tr>
     <tr><td><b>Orwa's Writeup Sources</b></td><td align="left"><a href="https://circular-yuzu-624.notion.site/sources_Orwa-2fa9eb8d093d802c9474d014e05cbb88">📚 Open Notion ↗</a></td></tr>
     <tr><td><b>SecurityCipher — Bounty Writeups</b></td><td align="left"><a href="https://securitycipher.com/bounty-writeups/">📚 Open Library ↗</a></td></tr>
-    <tr><td><b>YSAMM — Root-Cause Writeups</b></td><td align="left"><a href="https://ysamm.com/">📚 Open Site ↗</a></td></tr>
     <tr><td><b>MDPsec Reports</b></td><td align="left"><a href="https://mdpsec.com/reports/">📚 Open Site ↗</a></td></tr>
   </tbody>
 </table>
@@ -84,17 +83,18 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
     <tr><th>👤 Hunter</th><th align="left">🔗 Follow</th></tr>
   </thead>
   <tbody>
+    <tr><td><b>Youssef Sammouda</b></td><td align="left"><a href="https://ysamm.com/">👤 Open Site ↗</a></td></tr>
+    <tr><td><b>Moaaz Adel</b></td><td align="left"><a href="https://moaazadel.hashnode.dev/">👤 Open Blog ↗</a></td></tr>
+    <tr><td><b>orwaatyat</b></td><td align="left"><a href="https://medium.com/@orwaatyat">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>Tyrion404</b></td><td align="left"><a href="https://medium.com/@Tyrion404">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>0xNotNull</b></td><td align="left"><a href="https://medium.com/@0xNotNull">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>0xMekky</b></td><td align="left"><a href="https://medium.com/@0xmekky">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>jedus0r</b></td><td align="left"><a href="https://medium.com/@jedus0r">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>hgr00x</b></td><td align="left"><a href="https://medium.com/@hgr00x">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>Mahdi Salhi</b></td><td align="left"><a href="https://medium.com/@mahdisalhi0500">👤 Open Profile ↗</a></td></tr>
-    <tr><td><b>Moaaz Adel</b></td><td align="left"><a href="https://moaazadel.hashnode.dev/">👤 Open Blog ↗</a></td></tr>
     <tr><td><b>c0nqr0r</b></td><td align="left"><a href="https://medium.com/@c0nqr0r">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>0xMado-1Tap</b></td><td align="left"><a href="https://medium.com/@0xMado-1Tap">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>zomasec</b></td><td align="left"><a href="https://medium.com/@zomasec">👤 Open Profile ↗</a></td></tr>
-    <tr><td><b>orwaatyat</b></td><td align="left"><a href="https://medium.com/@orwaatyat">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>0xMo7areb</b></td><td align="left"><a href="https://medium.com/@0xMo7areb">👤 Open Profile ↗</a></td></tr>
   </tbody>
 </table>

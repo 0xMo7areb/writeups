@@ -14,7 +14,6 @@
         { "name": "BountyOrDie Docs - Web Pentest Writeups", "url": "https://get-bountyordie.gitbook.io/get-bountyordie-docs/our-write-ups/web-pentest-write-ups" },
         { "name": "Orwa's Writeup Sources",              "url": "https://circular-yuzu-624.notion.site/sources_Orwa-2fa9eb8d093d802c9474d014e05cbb88" },
         { "name": "SecurityCipher - Bounty Writeups",    "url": "https://securitycipher.com/bounty-writeups/" },
-        { "name": "YSAMM - Root-Cause Writeups",         "url": "https://ysamm.com/" },
         { "name": "MDPsec Reports",                      "url": "https://mdpsec.com/reports/" }
       ]
     },
@@ -29,18 +28,19 @@
     "hunters": {
       "title": "Individual Hunters",
       "items": [
-        { "name": "Tyrion404",   "url": "https://medium.com/@Tyrion404" },
-        { "name": "0xNotNull",   "url": "https://medium.com/@0xNotNull" },
-        { "name": "0xMekky",     "url": "https://medium.com/@0xmekky" },
-        { "name": "jedus0r",     "url": "https://medium.com/@jedus0r" },
-        { "name": "hgr00x",      "url": "https://medium.com/@hgr00x" },
-        { "name": "Mahdi Salhi", "url": "https://medium.com/@mahdisalhi0500" },
-        { "name": "Moaaz Adel",  "url": "https://moaazadel.hashnode.dev/" },
-        { "name": "c0nqr0r",     "url": "https://medium.com/@c0nqr0r" },
-        { "name": "0xMado-1Tap", "url": "https://medium.com/@0xMado-1Tap" },
-        { "name": "zomasec",     "url": "https://medium.com/@zomasec" },
-        { "name": "orwaatyat",   "url": "https://medium.com/@orwaatyat" },
-        { "name": "0xMo7areb",   "url": "https://medium.com/@0xMo7areb" }
+        { "name": "Youssef Sammouda", "url": "https://ysamm.com/" },
+        { "name": "Moaaz Adel",      "url": "https://moaazadel.hashnode.dev/" },
+        { "name": "orwaatyat",       "url": "https://medium.com/@orwaatyat" },
+        { "name": "Tyrion404",       "url": "https://medium.com/@Tyrion404" },
+        { "name": "0xNotNull",       "url": "https://medium.com/@0xNotNull" },
+        { "name": "0xMekky",         "url": "https://medium.com/@0xmekky" },
+        { "name": "jedus0r",         "url": "https://medium.com/@jedus0r" },
+        { "name": "hgr00x",          "url": "https://medium.com/@hgr00x" },
+        { "name": "Mahdi Salhi",     "url": "https://medium.com/@mahdisalhi0500" },
+        { "name": "c0nqr0r",         "url": "https://medium.com/@c0nqr0r" },
+        { "name": "0xMado-1Tap",     "url": "https://medium.com/@0xMado-1Tap" },
+        { "name": "zomasec",         "url": "https://medium.com/@zomasec" },
+        { "name": "0xMo7areb",       "url": "https://medium.com/@0xMo7areb" }
       ]
     },
     "telegram": {
