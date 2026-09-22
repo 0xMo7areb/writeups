@@ -42,15 +42,15 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
     <tr><th>📦 Collection</th><th align="left">🔗 Explore</th></tr>
   </thead>
   <tbody>
-    <tr><td><b>Top 100 HackerOne Paid Reports</b><br><sub>The highest-paid reports in H1 history, ranked by bounty.</sub></td><td align="left"><a href="https://github.com/reddelexc/hackerone-reports/blob/master/tops_100/TOP100PAID.md">📚 Open Archive ↗</a></td></tr>
-    <tr><td><b>HackerOne Reports Archive</b><br><sub>Giant JSON dump of public H1 reports for offline digging.</sub></td><td align="left"><a href="https://github.com/reddelexc/hackerone-reports">📚 Open Archive ↗</a></td></tr>
-    <tr><td><b>Awesome Bugbounty Writeups</b><br><sub>Curated mega-list of writeups from hunters worldwide.</sub></td><td align="left"><a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups">📚 Open Archive ↗</a></td></tr>
-    <tr><td><b>HackerOne Hacktivity — CWE Discovery</b><br><sub>Browse real reports indexed by CWE weakness class.</sub></td><td align="left"><a href="https://hackerone.com/hacktivity/cwe_discovery">📚 Open Hacktivity ↗</a></td></tr>
-    <tr><td><b>BountyOrDie Docs — Web Pentest Writeups</b><br><sub>Documented web-pentest hunts with methodology notes.</sub></td><td align="left"><a href="https://get-bountyordie.gitbook.io/get-bountyordie-docs/our-write-ups/web-pentest-write-ups">📚 Open GitBook ↗</a></td></tr>
-    <tr><td><b>Orwa's Writeup Sources</b><br><sub>Hand-documented Notion vault of writeup sources.</sub></td><td align="left"><a href="https://circular-yuzu-624.notion.site/sources_Orwa-2fa9eb8d093d802c9474d014e05cbb88">📚 Open Notion ↗</a></td></tr>
-    <tr><td><b>SecurityCipher — Bounty Writeups</b><br><sub>Focused bounty-reports library with payloads & context.</sub></td><td align="left"><a href="https://securitycipher.com/bounty-writeups/">📚 Open Library ↗</a></td></tr>
-    <tr><td><b>YSAMM — Root-Cause Writeups</b><br><sub>Deep-dive root-cause analyses of real vulnerabilities.</sub></td><td align="left"><a href="https://ysamm.com/">📚 Open Site ↗</a></td></tr>
-    <tr><td><b>MDPsec Reports</b><br><sub>Cleanly indexed pentest reports and writeup archive.</sub></td><td align="left"><a href="https://mdpsec.com/reports/">📚 Open Site ↗</a></td></tr>
+    <tr><td><b>Top 100 HackerOne Paid Reports</b></td><td align="left"><a href="https://github.com/reddelexc/hackerone-reports/blob/master/tops_100/TOP100PAID.md">📚 Open Archive ↗</a></td></tr>
+    <tr><td><b>HackerOne Reports Archive</b></td><td align="left"><a href="https://github.com/reddelexc/hackerone-reports">📚 Open Archive ↗</a></td></tr>
+    <tr><td><b>Awesome Bugbounty Writeups</b></td><td align="left"><a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups">📚 Open Archive ↗</a></td></tr>
+    <tr><td><b>HackerOne Hacktivity — CWE Discovery</b></td><td align="left"><a href="https://hackerone.com/hacktivity/cwe_discovery">📚 Open Hacktivity ↗</a></td></tr>
+    <tr><td><b>BountyOrDie Docs — Web Pentest Writeups</b></td><td align="left"><a href="https://get-bountyordie.gitbook.io/get-bountyordie-docs/our-write-ups/web-pentest-write-ups">📚 Open GitBook ↗</a></td></tr>
+    <tr><td><b>Orwa's Writeup Sources</b></td><td align="left"><a href="https://circular-yuzu-624.notion.site/sources_Orwa-2fa9eb8d093d802c9474d014e05cbb88">📚 Open Notion ↗</a></td></tr>
+    <tr><td><b>SecurityCipher — Bounty Writeups</b></td><td align="left"><a href="https://securitycipher.com/bounty-writeups/">📚 Open Library ↗</a></td></tr>
+    <tr><td><b>YSAMM — Root-Cause Writeups</b></td><td align="left"><a href="https://ysamm.com/">📚 Open Site ↗</a></td></tr>
+    <tr><td><b>MDPsec Reports</b></td><td align="left"><a href="https://mdpsec.com/reports/">📚 Open Site ↗</a></td></tr>
   </tbody>
 </table>
 
@@ -66,9 +66,9 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
     <tr><th>📰 Publication</th><th align="left">🔗 Explore</th></tr>
   </thead>
   <tbody>
-    <tr><td><b>Bug Bounty Daily</b><br><sub>Daily dose of bug bounty news, reports, and writeups.</sub></td><td align="left"><a href="https://bugbountydaily.com/">📰 Visit Feed ↗</a></td></tr>
-    <tr><td><b>InfoSec Writeups — Bug Bounty</b><br><sub>Massive Medium pub, filtered to bug bounty stories.</sub></td><td align="left"><a href="https://infosecwriteups.com/all?gi=8df708baa218&topic=bug-bounty">📰 Visit Pub ↗</a></td></tr>
-    <tr><td><b>Medium — Bug Bounty Writeup Tag</b><br><sub>Every Medium article tagged #bug-bounty-writeup.</sub></td><td align="left"><a href="https://medium.com/tag/bug-bounty-writeup">📰 Visit Tag ↗</a></td></tr>
+    <tr><td><b>Bug Bounty Daily</b></td><td align="left"><a href="https://bugbountydaily.com/">📰 Visit Feed ↗</a></td></tr>
+    <tr><td><b>InfoSec Writeups — Bug Bounty</b></td><td align="left"><a href="https://infosecwriteups.com/all?gi=8df708baa218&topic=bug-bounty">📰 Visit Pub ↗</a></td></tr>
+    <tr><td><b>Medium — Bug Bounty Writeup Tag</b></td><td align="left"><a href="https://medium.com/tag/bug-bounty-writeup">📰 Visit Tag ↗</a></td></tr>
   </tbody>
 </table>
 
@@ -84,13 +84,13 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
     <tr><th>👤 Hunter</th><th align="left">🔗 Follow</th></tr>
   </thead>
   <tbody>
-    <tr><td><b>Tyrion404</b><br><sub>Bug bounty writeups & web research.</sub></td><td align="left"><a href="https://medium.com/@Tyrion404">👤 Open Profile ↗</a></td></tr>
-    <tr><td><b>0xNotNull</b><br><sub>Web hacking writeups & technical deep-dives.</sub></td><td align="left"><a href="https://medium.com/@0xNotNull">👤 Open Profile ↗</a></td></tr>
-    <tr><td><b>0xMekky</b><br><sub>Bug bounty chains, IDORs, and pentest notes.</sub></td><td align="left"><a href="https://medium.com/@0xmekky">👤 Open Profile ↗</a></td></tr>
-    <tr><td><b>jedus0r</b><br><sub>Writeups from real-world hunting sessions.</sub></td><td align="left"><a href="https://medium.com/@jedus0r">👤 Open Profile ↗</a></td></tr>
-    <tr><td><b>hgr00x</b><br><sub>Security research & web exploitation writeups.</sub></td><td align="left"><a href="https://medium.com/@hgr00x">👤 Open Profile ↗</a></td></tr>
-    <tr><td><b>Mahdi Salhi</b><br><sub>Bug bounty & penetration testing writeups.</sub></td><td align="left"><a href="https://medium.com/@mahdisalhi0500">👤 Open Profile ↗</a></td></tr>
-    <tr><td><b>Moaaz Adel</b><br><sub>Hashnode journal — web security & bug bounty.</sub></td><td align="left"><a href="https://moaazadel.hashnode.dev/">👤 Open Blog ↗</a></td></tr>
+    <tr><td><b>Tyrion404</b></td><td align="left"><a href="https://medium.com/@Tyrion404">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>0xNotNull</b></td><td align="left"><a href="https://medium.com/@0xNotNull">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>0xMekky</b></td><td align="left"><a href="https://medium.com/@0xmekky">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>jedus0r</b></td><td align="left"><a href="https://medium.com/@jedus0r">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>hgr00x</b></td><td align="left"><a href="https://medium.com/@hgr00x">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>Mahdi Salhi</b></td><td align="left"><a href="https://medium.com/@mahdisalhi0500">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>Moaaz Adel</b></td><td align="left"><a href="https://moaazadel.hashnode.dev/">👤 Open Blog ↗</a></td></tr>
   </tbody>
 </table>
 
@@ -106,8 +106,8 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
     <tr><th>📱 Channel</th><th align="left">🔗 Join</th></tr>
   </thead>
   <tbody>
-    <tr><td><b>Daily Bounty Writeup</b><br><sub>Daily bug bounty writeup drops.</sub></td><td align="left"><a href="https://t.me/dailybountywriteup">📱 Open Channel ↗</a></td></tr>
-    <tr><td><b>Daily Writeups</b><br><sub>Fresh security & bug bounty writeups, daily.</sub></td><td align="left"><a href="https://t.me/Daily_Writeups">📱 Open Channel ↗</a></td></tr>
+    <tr><td><b>Daily Bounty Writeup</b></td><td align="left"><a href="https://t.me/dailybountywriteup">📱 Open Channel ↗</a></td></tr>
+    <tr><td><b>Daily Writeups</b></td><td align="left"><a href="https://t.me/Daily_Writeups">📱 Open Channel ↗</a></td></tr>
   </tbody>
 </table>
 
@@ -128,5 +128,5 @@ Hit me up on X and I'll add it to the vault ASAP. 🚀
 
 <p align="center">
   <b>Read like an attacker, write like a researcher.</b> 🧠<br>
-  <sub>curated with ♥ & caffeine by <a href="https://github.com/0xMo7areb"><b>@0xMo7areb</b></a></sub>
+  <sub>curated with ♥ & caffeine by <a href="https://0xmo7areb.vercel.app/"><b>@0xmo7areb</b></a></sub>
 </p>
