@@ -91,6 +91,11 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
     <tr><td><b>hgr00x</b></td><td align="left"><a href="https://medium.com/@hgr00x">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>Mahdi Salhi</b></td><td align="left"><a href="https://medium.com/@mahdisalhi0500">👤 Open Profile ↗</a></td></tr>
     <tr><td><b>Moaaz Adel</b></td><td align="left"><a href="https://moaazadel.hashnode.dev/">👤 Open Blog ↗</a></td></tr>
+    <tr><td><b>c0nqr0r</b></td><td align="left"><a href="https://medium.com/@c0nqr0r">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>0xMado-1Tap</b></td><td align="left"><a href="https://medium.com/@0xMado-1Tap">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>zomasec</b></td><td align="left"><a href="https://medium.com/@zomasec">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>orwaatyat</b></td><td align="left"><a href="https://medium.com/@orwaatyat">👤 Open Profile ↗</a></td></tr>
+    <tr><td><b>0xMo7areb</b></td><td align="left"><a href="https://medium.com/@0xMo7areb">👤 Open Profile ↗</a></td></tr>
   </tbody>
 </table>
 
