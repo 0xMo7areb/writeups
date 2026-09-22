@@ -7,7 +7,7 @@
     "libraries": {
       "title": "Writeup Libraries & Archives",
       "items": [
-        { "name": "Top 100 HackerOne Paid Reports",      "url": "https://github.com/reddelexc/hackerone-reports/blob/master/tops_100/TOP100PAID.md" },
+        { "name": "Top 100 HackerOne Paid Reports",      "url": "https://github.com/reddelexc/hackerone-reports/blob/master/docs/tops_100/TOP100PAID.md" },
         { "name": "HackerOne Reports Archive",           "url": "https://github.com/reddelexc/hackerone-reports" },
         { "name": "Awesome Bugbounty Writeups",          "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups" },
         { "name": "HackerOne Hacktivity - CWE Discovery","url": "https://hackerone.com/hacktivity/cwe_discovery" },

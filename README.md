@@ -42,7 +42,7 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
     <tr><th>📦 Collection</th><th align="left">🔗 Explore</th></tr>
   </thead>
   <tbody>
-    <tr><td><b>Top 100 HackerOne Paid Reports</b></td><td align="left"><a href="https://github.com/reddelexc/hackerone-reports/blob/master/tops_100/TOP100PAID.md">📚 Open Archive ↗</a></td></tr>
+    <tr><td><b>Top 100 HackerOne Paid Reports</b></td><td align="left"><a href="https://github.com/reddelexc/hackerone-reports/blob/master/docs/tops_100/TOP100PAID.md">📚 Open Archive ↗</a></td></tr>
     <tr><td><b>HackerOne Reports Archive</b></td><td align="left"><a href="https://github.com/reddelexc/hackerone-reports">📚 Open Archive ↗</a></td></tr>
     <tr><td><b>Awesome Bugbounty Writeups</b></td><td align="left"><a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups">📚 Open Archive ↗</a></td></tr>
     <tr><td><b>HackerOne Hacktivity — CWE Discovery</b></td><td align="left"><a href="https://hackerone.com/hacktivity/cwe_discovery">📚 Open Hacktivity ↗</a></td></tr>
