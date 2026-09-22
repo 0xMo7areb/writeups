@@ -116,10 +116,11 @@ Stop re-inventing the kill-chain. Learn from the people who already walked it. �
 ## 📬 Contact Me
 
 Found a writeup goldmine that's missing here?
-Hit me up on X and I'll add it to the vault ASAP. 🚀
+Hit me up on X or Telegram and I'll add it to the vault ASAP. 🚀
 
 <p align="center">
   <a href="https://x.com/0xmo7areb"><img src="https://img.shields.io/badge/X-@0xmo7areb-black?style=for-the-badge&labelColor=151515&logo=x"/></a>
+  <a href="https://t.me/mo7arebsec"><img src="https://img.shields.io/badge/Telegram-@mo7arebsec-blue?style=for-the-badge&labelColor=151515&logo=telegram&color=0088CC"/></a>
 </p>
 
 <p align="center">
