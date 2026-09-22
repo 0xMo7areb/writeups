@@ -1,0 +1,49 @@
+{
+  "repo": "writeups",
+  "curated_by": "@0xMo7areb",
+  "description": "A curated collection of the best bug bounty & web security writeups",
+  "updated_at": "2026-09-22",
+  "sections": {
+    "libraries": {
+      "title": "Writeup Libraries & Archives",
+      "items": [
+        { "name": "Top 100 HackerOne Paid Reports",      "url": "https://github.com/reddelexc/hackerone-reports/blob/master/tops_100/TOP100PAID.md" },
+        { "name": "HackerOne Reports Archive",           "url": "https://github.com/reddelexc/hackerone-reports" },
+        { "name": "Awesome Bugbounty Writeups",          "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups" },
+        { "name": "HackerOne Hacktivity - CWE Discovery","url": "https://hackerone.com/hacktivity/cwe_discovery" },
+        { "name": "BountyOrDie Docs - Web Pentest Writeups", "url": "https://get-bountyordie.gitbook.io/get-bountyordie-docs/our-write-ups/web-pentest-write-ups" },
+        { "name": "Orwa's Writeup Sources",              "url": "https://circular-yuzu-624.notion.site/sources_Orwa-2fa9eb8d093d802c9474d014e05cbb88" },
+        { "name": "SecurityCipher - Bounty Writeups",    "url": "https://securitycipher.com/bounty-writeups/" },
+        { "name": "YSAMM - Root-Cause Writeups",         "url": "https://ysamm.com/" },
+        { "name": "MDPsec Reports",                      "url": "https://mdpsec.com/reports/" }
+      ]
+    },
+    "publications": {
+      "title": "Publications & Feeds",
+      "items": [
+        { "name": "Bug Bounty Daily",                "url": "https://bugbountydaily.com/" },
+        { "name": "InfoSec Writeups - Bug Bounty",   "url": "https://infosecwriteups.com/all?gi=8df708baa218&topic=bug-bounty" },
+        { "name": "Medium - Bug Bounty Writeup Tag", "url": "https://medium.com/tag/bug-bounty-writeup" }
+      ]
+    },
+    "hunters": {
+      "title": "Individual Hunters",
+      "items": [
+        { "name": "Tyrion404",   "url": "https://medium.com/@Tyrion404" },
+        { "name": "0xNotNull",   "url": "https://medium.com/@0xNotNull" },
+        { "name": "0xMekky",     "url": "https://medium.com/@0xmekky" },
+        { "name": "jedus0r",     "url": "https://medium.com/@jedus0r" },
+        { "name": "hgr00x",      "url": "https://medium.com/@hgr00x" },
+        { "name": "Mahdi Salhi", "url": "https://medium.com/@mahdisalhi0500" },
+        { "name": "Moaaz Adel",  "url": "https://moaazadel.hashnode.dev/" }
+      ]
+    },
+    "telegram": {
+      "title": "Telegram Channels",
+      "items": [
+        { "name": "Daily Bounty Writeup", "url": "https://t.me/dailybountywriteup" },
+        { "name": "Daily Writeups",       "url": "https://t.me/Daily_Writeups" }
+      ]
+    }
+  }
+}
